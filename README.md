@@ -72,15 +72,37 @@ O sistema utiliza banco de dados MySQL com relacionamento entre tabelas utilizan
 
 ---
 
-# 📷 Interface do Sistema
+## 📸 Interface do Sistema
 
-## Tela Principal
+### 🖥️ Tela de Dados Pessoais
 
-Adicione aqui uma imagem da interface do sistema.
+<p align="center">
+  <img src="./imgs/tela1.png" width="400"/>
+</p>
 
-```md
-![Tela do Sistema](./imagens/tela.png)
-```
+---
+
+### 🎓 Tela de Curso
+
+<p align="center">
+  <img src="./imgs/tela2.png" width="400"/>
+</p>
+
+---
+
+### 📝 Tela de Notas e Faltas
+
+<p align="center">
+  <img src="./imgs/tela3.png" width="400"/>
+</p>
+
+---
+
+### 📄 Tela de Boletim
+
+<p align="center">
+  <img src="./imgs/tela4.png" width="400"/>
+</p>
 
 ---
 
@@ -89,7 +111,7 @@ Adicione aqui uma imagem da interface do sistema.
 ## 1️⃣ Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/juninho-Oliveira/Sistema-Acad-mico-Java-MySQL.git
 ```
 
 ---
@@ -165,13 +187,20 @@ TelaSistemaAcademico.java
 
 ---
 
-# 👥 Integrantes do Grupo
+## 👥 Integrantes do Grupo
 
-* Damião Júnior
-* Integrante 2
-* Integrante 3
-* Integrante 4
+Clique no nome para acessar o GitHub de cada integrante:
 
+- 👤 [Damião Junior](https://github.com/juninho-Oliveira)
+- 👤 [Elias Augusto](http://github.com/eliasaugustoo2203)
+- 👤 [Cristhian Chagas](https://github.com/cristhianchagas)
+- 👤 [Monica Castro](https://github.com/monicacastropacheco09-star)
+- 👤 [Pedro Henrique](https://github.com/Pedrinxp)
+- 👤 [Letícia Evangelista ](http://github.com/leticiaevang)
+- 👤 [Felipe Rocha](http://github.com/fehamroim09)
+- 👤 [Lucas Mendonça](https://github.com/zPhamtom)
+- 👤 [Raul Adriano](https://github.com/rauladrixdev)
+- 👤 [Henrique Matias](https://github.com/Dev-Henri-dot)
 ---
 
 # 📌 Observações
