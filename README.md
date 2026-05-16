@@ -157,6 +157,14 @@ CREATE TABLE notas_faltas (
 
     ON DELETE CASCADE
 );
+
+USE sistema_academico;
+
+
+SELECT * FROM alunos;
+SELECT * FROM notas_faltas;
+
+
 ```
 
 ---
